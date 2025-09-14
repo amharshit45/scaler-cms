@@ -14,7 +14,7 @@ Tech Stack: React.js, Node.js, Firebase Auth
 
 ### Live Demo
 
-// This will have images and a video link
+Video: https://drive.google.com/file/d/17Z4Ua_6dN65ZOy48mQmczXneNUbAfuwB/view?usp=sharing
 
 ---
 
